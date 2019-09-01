@@ -1,5 +1,5 @@
 // Obtained from
-// https://studiofreya.com/cpp/boost/an-introduction-to-boost-signals/https://studiofreya.com/cpp/boost/an-introduction-to-boost-signals/
+// https://studiofreya.com/cpp/boost/an-introduction-to-boost-signals
 #include <iostream>
 #include <boost/signals2/signal.hpp>
 #include <memory>               // std::shared_ptr
